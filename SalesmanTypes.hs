@@ -39,10 +39,6 @@ data TownName = Birmingham
                | Nottingham
                | Sheffield
                | Stoke
-               | A
-               | B
-               | C
-               | D
                deriving (Show, Eq)
 
 type Distance = Double
